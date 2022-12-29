@@ -1,27 +1,27 @@
 const notes = [
   {
     key: 1,
-    title: "Delegation",
+    title: "Difference between pizza and nigger",
     content:
-      "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem",
+      "Pizza can feed a family of five.",
   },
   {
     key: 2,
-    title: "Loops",
+    title: "9/11 jokes are not funny.",
     content:
-      "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat.",
+      "The other 2 though, are hilarious!",
   },
   {
     key: 3,
-    title: "Arrays",
+    title: "What do you call a kid with no arms and an eyepatch?",
     content:
-      "Q. Why did the programmer quit his job? A. Because he didn't get arrays.",
+      "Names",
   },
   {
     key: 4,
-    title: "Hardware vs. Software",
+    title: "Everyone says that Hitler really loved animals.",
     content:
-      "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software.",
+      "Then why did he kill 6 million of them?",
   },
 ];
 export default notes;
