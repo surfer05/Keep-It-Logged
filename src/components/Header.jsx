@@ -1,7 +1,15 @@
 import React from "react";
-function Header(){
-    return <header>
-        <h1>Keeper App</h1>
+import HighlightIcon from "@material-ui/icons/Highlight";
+
+function Header() {
+  return (
+    <header>
+      <h1>
+        <HighlightIcon />
+        Keep It Logged
+      </h1>
     </header>
+  );
 }
+
 export default Header;
